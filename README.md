@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Emirhan Sevmez</h1>
-<h3 align="center">A passionate web application security and software engineerin from Turkey</h3>
+<h3 align="center">A passionate web application security and software engineering from Turkey</h3>
 
 - 🌱 I’m currently learning **GO**
 
